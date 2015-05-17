@@ -1,0 +1,32 @@
+.emailicon {background:transparent url(images/email.png) no-repeat center center; width:22px; height:18px;}
+.nodataicon {background:transparent url(images/nodata.png) no-repeat center center; width:22px; height:18px;}
+
+.addusericon {background:transparent url(images/user_add.png) no-repeat left center; width:22px; height:18px;padding-left:20px;}
+.editusericon {background:transparent url(images/user_edit.png) no-repeat left center; width:22px; height:18px;padding-left:20px;}
+.deleteusericon {background:transparent url(images/user_delete.png) no-repeat left center; width:22px; height:18px;padding-left:20px;}
+.infousericon {background:transparent url(images/user_info.png) no-repeat center left; width:22px; height:18px;padding-left:20px;}
+.exporticon {background:transparent url(images/export.png) no-repeat center left; width:22px; height:18px;padding-left:20px;}
+
+.pwdicon {background:transparent url(images/key.png) no-repeat center left; width:22px; height:18px;padding-left:20px;}
+
+.notfoundicon {background:transparent url(images/notfound.png) no-repeat center left; width:22px; height:18px;}
+
+.allok_icon {
+	background:url(../../../media/images/accept.png) no-repeat center top;
+	width:48px;height:48px;
+}
+.allerror_icon {
+	background:url(../../../media/images/delete.png) no-repeat center top;
+	width:48px;height:48px;
+}
+.alllock_icon {
+	background:url(../../../media/images/info.png) no-repeat center top;
+	width:48px;height:48px;
+}
+
+input {width:99%;height:20px;border:1px solid #aaa;}
+input[readonly] {background:#eee;}
+
+#toolbar .left {
+	padding-top:0px !important;
+}
